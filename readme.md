@@ -19,7 +19,7 @@ A full-featured Django REST API with JWT Authentication for managing Clients and
 ### ✅ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/sarthakyadav25/Nimap_Python_Machine_Test
 cd your-repo
 ```
 
